@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Validasi Login</string>
+    <string name="tugas_2">Tugas 2 by M Akbar</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="logo">Logo</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="alamat_tinggal">Alamat Tinggal</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+</resources>
